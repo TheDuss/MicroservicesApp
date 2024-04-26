@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rO1i9nMDNdwAkAcFlzFE21aejnCGs2f31Oagc9AiUK/pP15LIZhXGiYKcLD6FoTVwhmMYNHip0J0v9Nk5CtWDA==",
+  "dgSpecHash": "DFYVBqb4rZXttmMe1wGqBMsAUvOkKhDmMcspLfzazad2JH1PerY6gzNM73ytp3Ao5vNHCLkfYRTJdrPAderBmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\morta\\OneDrive\\Dokumenter\\GitHub\\MicroservicesApp\\BuyCarAuc\\src\\AuctionService\\AuctionService.csproj",
+  "projectFilePath": "C:\\Users\\morta\\Desktop\\MicroservicesApp\\BuyCarAuc\\src\\AuctionService\\AuctionService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morta\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\morta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
