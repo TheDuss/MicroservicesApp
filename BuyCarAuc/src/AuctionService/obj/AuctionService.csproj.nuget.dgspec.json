@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\morta\\OneDrive\\Dokumenter\\GitHub\\MicroservicesApp\\BuyCarAuc\\src\\AuctionService\\AuctionService.csproj": {}
+    "C:\\Users\\morta\\Desktop\\MicroservicesApp\\BuyCarAuc\\src\\AuctionService\\AuctionService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\morta\\OneDrive\\Dokumenter\\GitHub\\MicroservicesApp\\BuyCarAuc\\src\\AuctionService\\AuctionService.csproj": {
+    "C:\\Users\\morta\\Desktop\\MicroservicesApp\\BuyCarAuc\\src\\AuctionService\\AuctionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\morta\\OneDrive\\Dokumenter\\GitHub\\MicroservicesApp\\BuyCarAuc\\src\\AuctionService\\AuctionService.csproj",
+        "projectUniqueName": "C:\\Users\\morta\\Desktop\\MicroservicesApp\\BuyCarAuc\\src\\AuctionService\\AuctionService.csproj",
         "projectName": "AuctionService",
-        "projectPath": "C:\\Users\\morta\\OneDrive\\Dokumenter\\GitHub\\MicroservicesApp\\BuyCarAuc\\src\\AuctionService\\AuctionService.csproj",
+        "projectPath": "C:\\Users\\morta\\Desktop\\MicroservicesApp\\BuyCarAuc\\src\\AuctionService\\AuctionService.csproj",
         "packagesPath": "C:\\Users\\morta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\morta\\OneDrive\\Dokumenter\\GitHub\\MicroservicesApp\\BuyCarAuc\\src\\AuctionService\\obj\\",
+        "outputPath": "C:\\Users\\morta\\Desktop\\MicroservicesApp\\BuyCarAuc\\src\\AuctionService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\morta\\AppData\\Roaming\\NuGet\\NuGet.Config",
