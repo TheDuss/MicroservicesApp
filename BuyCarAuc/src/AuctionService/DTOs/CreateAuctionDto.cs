@@ -15,7 +15,7 @@ namespace AuctionService.DTOs
         [Required]
         public int Year { get; set; }
         [Required]
-        public string ReservePrice { get; set; }
+        public int ReservePrice { get; set; }
         [Required]
         public string ImageUrl { get; set; }
         [Required]
